@@ -1,0 +1,40 @@
+GtkButton {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 25px;
+    color: #5F497F;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+}
+
+GtkWidget {
+    background-image: none;
+}
+
+#tytul {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: #AA2009;
+    text-decoration: none solid rgb(68, 68, 68);
+}
+
+#button {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 15px;
+    color: #503561;
+    font-weight: 800;
+}
+
+#tekst {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 20px;
+    color: #1A0D7F;
+    font-weight: 900;
+}
+
+#message {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 20px;
+    color: #008000;
+    font-weight: normal;
+}
